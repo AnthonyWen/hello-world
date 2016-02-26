@@ -1,3 +1,3 @@
 # hello-world
-This is the first GitHub project.
+This is my first GitHub project.
 Working as BRE Developer.Willing to learn more about coding.
